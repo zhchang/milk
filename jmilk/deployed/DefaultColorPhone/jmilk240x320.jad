@@ -1,0 +1,17 @@
+MIDlet-Name: OceanAge
+MIDlet-Version: 1.0
+MIDlet-Vendor: mozat
+MIDlet-Jar-URL: jmilk240x320.jar
+MIDlet-Jar-Size: 1007725
+MIDlet-Icon: /icon.png
+MIDlet-1: OceanAge,/icon.png,milk.ui.MilkApp
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+domain: dev
+game: oa
+monetport: 4018
+moneturl: 192.168.50.13
+password: 7b38d16a4f5311c90dcb939d48409261
+serviceid: 58
+userdomain: @morange.com
+username: motest@morange.com

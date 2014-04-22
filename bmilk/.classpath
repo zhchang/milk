@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/bouncycastle/openpgp/test/|java/math/test/|org/bouncycastle/asn1/test/|org/bouncycastle/cert/test/|org/bouncycastle/cms/test/|org/bouncycastle/crypto/test/|org/bouncycastle/util/test/|org/bouncycastle/cert/|org/bouncycastle/cms/|org/bouncycastle/bcpg/|org/bouncycastle/crypto/examples/|org/bouncycastle/eac/|org/bouncycastle/openpgp/|org/bouncycastle/operator/|org/bouncycastle/pkcs/|org/bouncycastle/tsp/|bcjava/math/copy/test/|org/bouncycastle/|java/|org/" kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry excluding="milk/ui/*" kind="src" path="src-milk"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 5.0.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

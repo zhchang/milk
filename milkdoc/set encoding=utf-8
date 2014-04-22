@@ -1,0 +1,11 @@
+======milk文档======
+
+milk，或者称为Mozat Integrated Language Kit，是mozat公司开发出来的集编程语言，编译器，部署器，部署环境（服务器）的一套工具。它的目的是提供一个游戏编程的解决方案，此方案将同时适配各种手机，以及桌面等等有milk-runtime实现的硬件系统。
+
+=====文档归类=====
+
+^文档名^内容^目标读者^
+|[[milk-doc_arc|Milk技术架构]]|解释Milk技术架构，包括本地开发，服务器部署|milk开发者，milk-toolchain开发者，milk-runtime开发者，跟milk技术有关的运维，运营人员|
+|[[milk-doc_lang|Milk 语言]]|milk语言的语法结构以及样本，范例|milk 开发者，milk-toolchain开发者，milk-runtime开发者|
+|[[milk-doc_runtime|milk-runtime架构]]|milk-runtime的工作原理，结构框架，推荐实现|milk-runtime的开发者|
+|[[milk-doc_toolchain|milk toolchain]]|milk编译器，部署器，部署环境|milk-toolchain的开发者|
